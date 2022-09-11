@@ -6,8 +6,8 @@
 
 :root {
   --font-primary: "Rampart+One", sans-serif;
-  --font-secondary: "Bangers", serif;
-  --font-code: "Anonymous+Pro", monospace;
+  --font-secondary: "Anonymous+Pro", serif;
+  --font-code: "Bangers", monospace;
   --bg-color: #b1afb4;
   --bg-color-transparent: #0e002780;
   --font-color: #1a2a30;
