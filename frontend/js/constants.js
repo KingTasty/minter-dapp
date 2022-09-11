@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Tuning In - Here for the Music!";
 const welcome_h2 = "Connect your wallet to join the Club.";
-const welcome_p = 'Tuning In NFTs is a tokenized Music Discovery and Distribution Club. A collection of 5500 unique membership tokens is grooving it is way onto the Ethereum blockchain to unite independent artists and passionate listeners around the world. Peace, love, and music NFTs.';
+const welcome_p = 'Tuning In NFTs is a tokenized Music Discovery and Distribution Club.                     A collection of 5500 unique membership tokens is grooving it is way onto the Ethereum blockchain to unite independent artists and passionate listeners around the world. Peace, love, and music NFTs.';
 const h1_presale_coming_soon = "Our NFT Drop is Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Mint Is Live! Are You Feeling Groovy?";
 const h1_public_mint = "Public Mint Is Live! Shake Your Groove thing!!";
