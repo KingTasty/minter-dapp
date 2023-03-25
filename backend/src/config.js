@@ -24,8 +24,8 @@ const layerConfigurations = [
       { name: "Bottom I" },
       { name: "Top I" },
       { name: "Hair I" },
-      { name: "Glasses I" },
       { name: "Headphones I" },
+      { name: "Glasses I" },
     ],
   },{
     growEditionSizeTo: 5500,
@@ -39,8 +39,8 @@ const layerConfigurations = [
       { name: "Bottom II" },
       { name: "Top II" },
       { name: "Hair II" },
-      { name: "Glasses II" },
       { name: "Headphones II" },
+      { name: "Glasses II" },
     ],
   },
 ];
